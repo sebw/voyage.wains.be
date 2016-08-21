@@ -162,17 +162,19 @@ J'aime les maths et les stats, donc voilà...
   - 05/2015 Newark-Brussels (United) `5905 kms`
   - 09/2015 Charleroi-Stockholm Skavsta (Ryanair) `1317 kms`
   - 09/2015 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
-    - 11/2015 Charleroi-Stockholm Skavsta (Ryanair) `1317 kms`
+  - 11/2015 Charleroi-Stockholm Skavsta (Ryanair) `1317 kms`
   - 11/2015 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
   - 12/2015 Charleroi-Stockholm Skavsta (Ryanair) `1317 kms`
 
-- 2016 - `1317 kms` - 1 avion - 1 décollage
+- 2016 - `3924 kms` - 3 avions - 3 décollages
   - 01/2016 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
+  - 07/2016 Brussels-Stockholm Bromma (Brussels Airlines) `1290 kms`
+  - 07/2016 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
 
 ## La douloureuse addition
-- Distance : `195103 kms`
-- Nombre d'avions : 72
-- Nombre de décollages : 75
+- Distance : `197710 kms`
+- Nombre d'avions : 74
+- Nombre de décollages : 77
 
 [moi]: https://duckduckgo.com/?q=Sebastien+Wains
 [albums photo]: http://photo.wains.be
