@@ -151,7 +151,7 @@ J'aime les maths et les stats, donc voilà...
   - 11/2014 Brussels-Stockholm Arlanda (SAS) `1290 kms`
   - 11/2014 Stockholm Arlanda-Brussels (SAS) `1290 kms`
 
-- 2015 - `30282 kms` - 13 avions - 10 décollages
+- 2015 - `30282 kms` - 13 avions - 13 décollages
   - 02/2015 Brussels-Stockholm Arlanda (SAS) `1290 kms`
   - 02/2015 Stockholm Arlanda-Brussels (SAS) `1290 kms`
   - 03/2015 Brussels-Stockholm Arlanda (SAS) `1290 kms`
@@ -166,13 +166,15 @@ J'aime les maths et les stats, donc voilà...
   - 11/2015 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
   - 12/2015 Charleroi-Stockholm Skavsta (Ryanair) `1317 kms`
 
-- 2016 - `3924 kms` - 3 avions - 3 décollages
+- 2016 - `5940 kms` - 3 avions - 3 décollages
   - 01/2016 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
   - 07/2016 Brussels-Stockholm Bromma (Brussels Airlines) `1290 kms`
   - 07/2016 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
+  - 08/2016 Lille-bastia (Volotea) `1008 kms`
+  - 09/2016 Bastia-Lille (Volotea) `1008 kms`
 
 ## La douloureuse addition
-- Distance : `197710 kms`
+- Distance : `199726 kms`
 - Nombre d'avions : 74
 - Nombre de décollages : 77
 
