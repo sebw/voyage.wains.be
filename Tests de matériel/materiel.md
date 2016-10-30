@@ -1,23 +1,37 @@
 # Matériel
 Voici mon matériel rando, bivouac et bushcraft (MAJ avril 2016). N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 
-Vêtements :
+Système trois couches :
 
-- Veste hardshell Arcteryx Beta LT hybrid
-- Veste 2 saisons Fjällräven Abisko Lite
-- Veste hiver Fjällräven Sarek Winter  
+- Veste hardshell Arcteryx Beta LT hybrid **A VENDRE**
+- Veste hardshell 3 layer Haglofs Roc Spirit
 - Veste mid-layer Patagonia Nano Puff
-- Pantalon randonnée Fjällräven Barrents Pro  
-- Pantalon randonnée hiver Norrøna Svalbard Heavy Duty  
+- Veste Norrona Bitihorn powerstretch
+
+Autre vêtements :
+
+- Veste hiver Fjällräven Sarek Winter  
+- Veste 2 saisons Fjällräven Abisko Lite
+- Pantalon randonnée Fjällräven Barrents Pro (3 saisons)
+- Pantalon randonnée hiver Norrøna Svalbard Heavy Duty (4 saisons)
 - Surpantalon imperméable Berghaus Deluge
 - Tour de cou Icebreaker Flexi Chute
+- Gants Icebreaker Quantum
+- Bonnet Icebreaker Pocket
 - Base layer Decathlon Merino  
 - Chaussures Asolo Triumph Mv [review](https://voyage.wains.be/Tests%20de%20mate%CC%81riel/20151017-Asolo-Triumph.md)
+
+Guide des tailles :
+
+- Patagonia : medium
+- Norrona : large
+- Haglofs : medium
+- Arcteryx : medium
 
 Bivouac :
 
 - Tente MSR Hubba HP [review](https://voyage.wains.be/Tests%20de%20mate%CC%81riel/20151110-MSR-hubba-hp.md)
-- Sac de couchage Vango Ultralite 900
+- Sac de couchage Vango Ultralite 900 (synthétique 1500 gr)
 - Matelas Thermarest Xtherm Max [review](https://voyage.wains.be/Tests%20de%20mate%CC%81riel/20151017-thermarest-xtherm-max.md)
 - Sac à dos Quechua Forclaz 40 Air
 
