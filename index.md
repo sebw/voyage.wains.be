@@ -166,7 +166,7 @@ J'aime les maths et les stats, donc voilà...
   - 11/2015 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
   - 12/2015 Charleroi-Stockholm Skavsta (Ryanair) `1317 kms`
 
-- 2016 - `7257 kms` - 3 avions - 3 décollages
+- 2016 - `7257 kms` - 6 avions - 6 décollages
   - 01/2016 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
   - 07/2016 Brussels-Stockholm Bromma (Brussels Airlines) `1290 kms`
   - 07/2016 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
