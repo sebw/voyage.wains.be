@@ -1,17 +1,15 @@
 # Bienvenue
 
-Je raconte ici sous forme de wiki mes aventures autour du monde, que ce soit un trekking au Népal ou un bivouac dans les Ardennes belges.
+Je raconte ici sous forme de wiki mes "aventures" autour du monde, que ce soit un trekking au Népal, un bivouac dans les Ardennes belges, ou skier dans les Alpes.
 
-J'ai commencé à voyager en 2003, j'avais alors 23 ans.
-
-Ce site se veut simple, ce qui me permet de l'alimenter sans prise de tête.
+Pour les timides qui ont peur de tenter de nouvelles choses, j'ai commencé à voyager en 2003, j'avais alors 23 ans. J'ai commencé la rando en 2009 à 29 ans, et à skier à 34 ans. Il n'est donc jamais trop tard !
 
 Si vous voulez me contacter, cherchez [moi], vous me trouverez facilement. 
 
 N'oubliez pas de visiter mes [albums photo].
 
 ## Récapitulatif
-Loin :
+Voyages :
 
 - 2003 : Corse, France
 - 2004 : Caroline du Nord, USA
@@ -20,16 +18,18 @@ Loin :
 - 2007 : Caroline du Nord, USA
 - 2007 : Lac de Côme, Italie
 - 2008 : Mexique
-- 2009 : Costa Rica
+- 2009 : Costa Rica ❤❤
 - 2010 : New York City
-- 2010 : Népal ❤
-- 2011 : Indonésie ❤
+- 2010 : Népal ❤❤
+- 2011 : Indonésie ❤❤
 - 2012/2013: Thaïlande
-- 2014 (mars, avril): Thaïlande, Laos, Cambodge
+- 2014 (mars, avril): Thaïlande, Laos, Cambodge ❤
 - 2014 (juin): Islande ❤❤❤
 - 2015 : Ouest, Etats-Unis
+- 2016 : Corse, France
+- 2017 : Islande
 
-Moins loin :
+City trips et courts séjours :
 
 - Aix-les-Bains
 - Amsterdam
@@ -54,15 +54,15 @@ Pour le boulot :
 - Paris
 - Rotterdam
 
-Où j'ai skié :
+Où j'ai skié (je totalise les heures car je débute :)) :
 
 - 2014/12 : Margériaz, France (2h)
-- 2015/01 : Ice Mountain, Comines, Belgique (deux fois) (4h)
 - 2015/01 : La Bresse, France (10h)
 - 2015/02 : Hammerby, Stockholm, Suède (2h)
 - 2015/02 : Flottsbro, Huddinge, Suède (1h)
 - 2015/12 : Ice Mountain (7h)
-- 2016/01 : Les Arcs Paradiski
+- 2016/01 : Les Arcs, France (1 semaine : 12h cours, reste libre) 
+- 2017/01 : Les Arcs, France (1 semaine : 12h cours, reste libre)
 
 ## Maintenant, le souci
 Je ne peux m'empêcher de penser à l'impact de mes voyages sur l'environnement. Voici une estimation chiffrée en kilomètres.
