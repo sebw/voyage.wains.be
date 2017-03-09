@@ -3,8 +3,7 @@ Voici mon matériel rando, bivouac et bushcraft (MAJ avril 2016). N'hésitez pas
 
 Système trois couches :
 
-- Veste hardshell Arcteryx Beta LT hybrid **A VENDRE**
-- Veste hardshell 3 layer Haglofs Roc Spirit
+- Veste hardshell 3 layers Haglofs Roc Spirit
 - Veste mid-layer Patagonia Nano Puff
 - Veste Norrona Bitihorn powerstretch
 
@@ -12,13 +11,14 @@ Autre vêtements :
 
 - Veste hiver Fjällräven Sarek Winter  
 - Veste 2 saisons Fjällräven Abisko Lite
+- Veste softshell Karrimor
 - Pantalon randonnée Fjällräven Barrents Pro (3 saisons)
 - Pantalon randonnée hiver Norrøna Svalbard Heavy Duty (4 saisons)
 - Surpantalon imperméable Berghaus Deluge
 - Tour de cou Icebreaker Flexi Chute
 - Gants Icebreaker Quantum
 - Bonnet Icebreaker Pocket
-- Base layer Decathlon Merino  
+- Base layer Decathlon Merino legging + t-shirt 
 - Chaussures Asolo Triumph Mv [review](https://voyage.wains.be/Tests%20de%20mate%CC%81riel/20151017-Asolo-Triumph.md)
 
 Guide des tailles :
