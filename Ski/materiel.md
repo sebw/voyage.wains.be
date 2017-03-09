@@ -4,4 +4,8 @@
 - Fixation Marker F10 Tour [lien](http://marker.net/products/bindings/tour-f10.html)
 - Chaussures Salomon X-Max 100
 
-![](https://voyage.wains.be/images/captis.png)
+![](https://voyage.wains.be/library/images/captis.png)
+
+![](https://voyage.wains.be/library/images/salomon-x100.jpg)
+
+![](https://voyage.wains.be/library/images/marker.png)
