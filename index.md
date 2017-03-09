@@ -54,16 +54,6 @@ Pour le boulot :
 - Paris
 - Rotterdam
 
-Où j'ai skié (je totalise les heures car je débute :)) :
-
-- 2014/12 : Margériaz, France (2h)
-- 2015/01 : La Bresse, France (10h)
-- 2015/02 : Hammerby, Stockholm, Suède (2h)
-- 2015/02 : Flottsbro, Huddinge, Suède (1h)
-- 2015/12 : Ice Mountain (7h)
-- 2016/01 : Les Arcs, France (1 semaine : 12h cours, reste libre) 
-- 2017/01 : Les Arcs, France (1 semaine : 12h cours, reste libre)
-
 ## Maintenant, le souci
 Je ne peux m'empêcher de penser à l'impact de mes voyages sur l'environnement. Voici une estimation chiffrée en kilomètres.
 
