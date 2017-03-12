@@ -27,13 +27,17 @@ Guide des tailles :
 - Norrona : large
 - Haglofs : medium
 - Arcteryx : medium
+- Columbia : medium
+- Picture Organic : large
 
 Bivouac :
 
 - Tente MSR Hubba HP [review](https://voyage.wains.be/Tests%20de%20mate%CC%81riel/20151110-MSR-hubba-hp.md)
 - Sac de couchage Vango Ultralite 900 (synthétique 1500 gr)
+- Sac de couchage Vango Ultralite 600 (synthétique 1200 gr)
 - Matelas Thermarest Xtherm Max [review](https://voyage.wains.be/Tests%20de%20mate%CC%81riel/20151017-thermarest-xtherm-max.md)
 - Sac à dos Quechua Forclaz 40 Air
+- Sac à dos Berghaus Motive 60+10
 
 Bushcraft :
 
