@@ -18,7 +18,7 @@
 
 ![](https://voyage.wains.be/library/images/mammut.jpg)
 
-### Sac à dos North Face Snomad Tour
+### Sac à dos North Face Snomad Tour 36 litres
 
 ![](https://voyage.wains.be/library/images/northface_snomadtour.jpg)
 

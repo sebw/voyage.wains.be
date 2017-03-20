@@ -7,7 +7,7 @@ Système trois couches :
 - Veste mid-layer Patagonia Nano Puff
 - Veste Norrona Bitihorn powerstretch
 
-Autre vêtements :
+Autres vêtements :
 
 - Veste hiver Fjällräven Sarek Winter  
 - Veste 2 saisons Fjällräven Abisko Lite
@@ -21,14 +21,9 @@ Autre vêtements :
 - Base layer Decathlon Merino legging + t-shirt 
 - Chaussures Asolo Triumph Mv [review](https://voyage.wains.be/Tests%20de%20mate%CC%81riel/20151017-Asolo-Triumph.md)
 
-Guide des tailles :
+Randonnée : 
 
-- Patagonia : medium
-- Norrona : large
-- Haglofs : medium
-- Arcteryx : medium
-- Columbia : medium
-- Picture Organic : large
+- Bâtons Black Diamond Distance Carbon Z 130 cm
 
 Bivouac :
 
@@ -44,6 +39,15 @@ Bushcraft :
 - Hachette Gränsfors Bruk Mini Hatchet (Lilla yxan)
 - Hache Gränsfors Bruk small Forest Axe (liten skogsyxa)
 - Couteau Mora Bushcraft Signal
+
+Guide des tailles :
+
+- Patagonia : medium
+- Norrona : large
+- Haglofs : medium
+- Arcteryx : medium
+- Columbia : medium
+- Picture Organic : large
 
 Voici les reviews qui m'ont fait acheter ces articles :
 
