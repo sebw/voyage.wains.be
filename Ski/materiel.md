@@ -3,9 +3,10 @@
 ### Ski et fixation (2016/2017)
 
 - Ski Black Crows Captis 184 cm 122/90/112 [lien](https://www.black-crows.com/captis-skis)
-- Fixation Marker F10 Tour [lien](http://marker.net/products/bindings/tour-f10.html)
 
 ![](https://voyage.wains.be/library/images/captis.png)
+
+- Fixation Marker F10 Tour [lien](http://marker.net/products/bindings/tour-f10.html)
 
 ![](https://voyage.wains.be/library/images/marker.png)
 
@@ -16,6 +17,10 @@
 ### Sac à dos Mammut Nirvana Ride 22 litres
 
 ![](https://voyage.wains.be/library/images/mammut.jpg)
+
+### Sac à dos North Face Snomad Tour
+
+![](https://voyage.wains.be/library/images/northface_snomadtour.jpg)
 
 ### Pantalon Picture Organic Open
 
