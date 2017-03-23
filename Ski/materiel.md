@@ -4,23 +4,50 @@
 
 - Ski Black Crows Captis 184 cm 122/90/112 [lien](https://www.black-crows.com/captis-skis)
 
-![](https://voyage.wains.be/library/images/captis.png)
+![](https://voyage.wains.be/library/images/ski/captis.png)
+
+- Peaux Black Crows 182 cm
+
+![](https://voyage.wains.be/library/images/ski/skins.png)
 
 - Fixation Marker F10 Tour [lien](http://marker.net/products/bindings/tour-f10.html)
 
-![](https://voyage.wains.be/library/images/marker.png)
+![](https://voyage.wains.be/library/images/ski/marker.png)
 
 ### Chaussures Salomon X-Max 100 (2015/2016)
 
-![](https://voyage.wains.be/library/images/salomon-x100.jpg)
+![](https://voyage.wains.be/library/images/ski/salomon-x100.jpg)
 
 ### Sac à dos Mammut Nirvana Ride 22 litres
 
-![](https://voyage.wains.be/library/images/mammut.jpg)
+![](https://voyage.wains.be/library/images/ski/mammut.jpg)
 
 ### Sac à dos North Face Snomad Tour 36 litres
 
-![](https://voyage.wains.be/library/images/northface_snomadtour.jpg)
+![](https://voyage.wains.be/library/images/ski/northface-snomad-tour.jpg)
+
+### Pantalon Picture Organic Welcome Bib
+
+![](https://voyage.wains.be/library/images/ski/picture-welcome.jpg)
+
+Modèle 2015/2016
+
+Regular fit
+Pantalons de snowboard
+Pantalon de ski
+Colonne d'eau : 25.000 mm
+Thermoactivité : 25.000 g/m2
+Coutures entièrement scellées
+Extrémités des jambes avec fermeture éclair
+Système de ventilation
+Ceinture de pantalon avec passants
+Bretelles
+Poches latérales avec fermeture éclair, Poches arrières avec fermeture-éclair
+Logo imprimé
+Matière hydrofuge, Matière thermoactive, Matière résistante
+Matière recyclée
+Couleur selon la marque: blue
+
 
 ### Pantalon Picture Organic Open
 
