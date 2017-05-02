@@ -6,7 +6,7 @@
 
 ![](https://voyage.wains.be/library/images/ski/captis.png)
 
-- Peaux Black Crows 182 cm
+- Peaux Black Crows 182 cm (pour Anima, découpée)
 
 ![](https://voyage.wains.be/library/images/ski/skins.png)
 
@@ -18,9 +18,13 @@
 
 ![](https://voyage.wains.be/library/images/ski/salomon-x100.jpg)
 
-### Sac à dos Mammut Nirvana Ride 22 litres
+### Sac à dos airbag Scott Air Free AP 12 litres
 
-![](https://voyage.wains.be/library/images/ski/mammut.jpg)
+![](https://voyage.wains.be/library/images/ski/airbag.jpg)
+
+### Pelle Ortovox Badger
+
+### Sonde Ortovox Light PFA 240
 
 ### Sac à dos North Face Snomad Tour 36 litres
 
