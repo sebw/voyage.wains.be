@@ -164,15 +164,17 @@ J'aime les maths et les stats, donc voilà...
   - 09/2016 Bastia-Lille (Volotea) `1008 kms`
   - 12/2016 Charleroi-Stockholm Skavsta (Ryanair) `1317 kms`
 
-- 2017 - `1317 kms` - 1 avion - 1 décollage
+- 2017 - `3897 kms` - 3 avions - 3 décollage
 
-  - 01/2017 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
+  - 01/2017 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`  
+  - 04/2015 Brussels-Stockholm Arlanda (SAS) `1290 kms`
+  - 05/2015 Stockholm Arlanda-Brussels (SAS) `1290 kms`
 
 
 ## La douloureuse addition
-- Distance : `202360 kms`
-- Nombre d'avions : 76
-- Nombre de décollages : 79
+- Distance : `204940 kms`
+- Nombre d'avions : 78
+- Nombre de décollages : 81
 
 [moi]: https://duckduckgo.com/?q=Sebastien+Wains
 [albums photo]: http://photo.wains.be
