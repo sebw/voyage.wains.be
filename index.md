@@ -167,8 +167,8 @@ J'aime les maths et les stats, donc voilà...
 - 2017 - `3897 kms` - 3 avions - 3 décollage
 
   - 01/2017 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`  
-  - 04/2015 Brussels-Stockholm Arlanda (SAS) `1290 kms`
-  - 05/2015 Stockholm Arlanda-Brussels (SAS) `1290 kms`
+  - 04/2017 Brussels-Stockholm Arlanda (SAS) `1290 kms`
+  - 05/2017 Stockholm Arlanda-Brussels (SAS) `1290 kms`
 
 
 ## La douloureuse addition
