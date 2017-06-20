@@ -18,7 +18,7 @@ L'ajout d'un bagage en soute a couté 72 EUR au moment de la réservation. Ils a
 
 Le check-in en ligne n'est possible que 7 jours avant le vol, si vous voulez faire le check-in avant, vous devez obligatoirement choisir un siège qui sera payant (ça commençait à 9 EUR). Si vous attendez, quelques jours avant le vol, ils vous assigneront gratuitement un siège de manière aléatoire (Ryanair fait pareil).
 
-Il est possible de faire le check-in depuis un appareil mobile et d'éviter l'impression du billet. Vous téléchargerez alors un fichier image de type PNG sur votre appareil. Si vous lEUR demandez d'imprimer le billet au comptoir, il vous en coûtera 30 EUR (même prix que si vous oubliez de procéder au check-in en temps et en heure).
+Il est possible de faire le check-in depuis un appareil mobile et d'éviter l'impression du billet. Vous téléchargerez alors un fichier image de type PNG sur votre appareil. Si vous leur demandez d'imprimer le billet au comptoir, il vous en coûtera 30 EUR (même prix que si vous oubliez de procéder au check-in en temps et en heure).
 
 Les avions sont récents (Boeing 717), le service a été correct. Le vol aller avait 50 minutes de retard et est arrivé avec 20 minutes de retard (ils prennent une sacrée marge de sécurité en annoncant 2 heures de vol).
 
