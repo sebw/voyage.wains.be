@@ -24,7 +24,13 @@
 
 ### Pelle Ortovox Badger
 
+![](https://voyage.wains.be/library/images/ski/pelle.jpg)
+
 ### Sonde Ortovox Light PFA 240
+
+270 grammes
+
+![](https://voyage.wains.be/library/images/ski/sonde.jpg)
 
 ### Sac à dos North Face Snomad Tour 36 litres
 
