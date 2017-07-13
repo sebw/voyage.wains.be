@@ -175,8 +175,8 @@ J'aime les maths et les stats, donc voilà...
 
 ## La douloureuse addition
 - Distance : `209200 kms`
-- Nombre d'avions : 78
-- Nombre de décollages : 81
+- Nombre d'avions : 80
+- Nombre de décollages : 83
 
 [moi]: https://duckduckgo.com/?q=Sebastien+Wains
 [albums photo]: http://photo.wains.be
