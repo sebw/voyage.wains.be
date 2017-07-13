@@ -57,6 +57,7 @@ N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 
 - Sac à dos Quechua Forclaz 40 Air (1100 grammes)
 - Sac à dos Berghaus Motive 60+10 (2000 grammes)
+- Sac à dos Osprey Xenith 75 (2330 grammes)
 
 **Equipement bushcraft**
 
