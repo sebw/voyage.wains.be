@@ -1,5 +1,12 @@
 # Matériel de ski
 
+### Système 3/4 couches
+
+1. t-shirt merino manche longue Decathlon
+2. polaire Norrona Bitihorn Stretch
+3. optionnel : doudoune Patagonia Nano Puff
+4. veste Eider Shaper
+
 ### Ski et fixation (2016/2017)
 
 - Ski Black Crows Captis 184 cm 122/90/112 [lien](https://www.black-crows.com/captis-skis)
