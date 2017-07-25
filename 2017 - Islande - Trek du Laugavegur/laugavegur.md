@@ -2,6 +2,8 @@
 
 Photos : [https://photo.wains.be/albums/201707-islande-laugavegur-trek/](https://photo.wains.be/albums/201707-islande-laugavegur-trek/)
 
+Itinéraire : [https://fr.wikiloc.com/wikiloc/view.do?id=18647215](https://fr.wikiloc.com/wikiloc/view.do?id=18647215)
+
 J'ai fait le trek du Laugavegur en début juillet 2017.
 
 Je suis arrivé en Islande le 29 juin et suis reparti le 8 juillet.
