@@ -4,7 +4,7 @@
 
 1. t-shirt merino manche longue Decathlon
 2. polaire Norrona Bitihorn Stretch
-3. optionnel : doudoune Patagonia Nano Puff
+3. optionnel si très froid : doudoune Patagonia Nano Puff
 4. veste Eider Shaper
 
 ### Ski et fixation (2016/2017)
@@ -42,6 +42,13 @@
 ### Sac à dos North Face Snomad Tour 36 litres
 
 ![](https://voyage.wains.be/library/images/ski/northface-snomad-tour.jpg)
+
+
+### Veste Eider Shaper
+
+![](https://voyage.wains.be/library/images/ski/eider-shaper.jpg)
+
+defender® high-density // impermeabilite 20,000mm // respirabilite 15,000g/m²/24h // 100% polyester
 
 ### Pantalon Picture Organic Welcome Bib
 
