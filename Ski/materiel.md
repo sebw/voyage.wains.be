@@ -1,11 +1,5 @@
 # Matériel de ski
 
-### Système 3 couches
-
-1. t-shirt merino manche longue Decathlon
-2. polaire Millet Grizzly Loft Bee
-3. veste hardshell Eider Shaper
-
 ### Ski et fixation (2016/2017)
 
 - Ski Black Crows Captis 184 cm 122/90/112 [lien](https://www.black-crows.com/captis-skis)
@@ -52,6 +46,10 @@ defender® high-density // impermeabilite 20,000mm // respirabilite 15,000g/m²/
 ### 2ème couche : veste Millet Grizzly Loft Bee
 
 ![](https://voyage.wains.be/library/images/ski/millet-grizzly.jpg)
+
+POLARTEC THERMAL PRO BEE LOFT // 96% POLYESTER RECYCLE 4% ELASTHANNE
+
+### 3ème couche : t-shirt manches longues merino Decathlon
 
 ### Pantalon Picture Organic Welcome Bib
 
