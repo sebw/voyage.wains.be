@@ -43,11 +43,15 @@
 ![](https://voyage.wains.be/library/images/ski/northface-snomad-tour.jpg)
 
 
-### Veste Eider Shaper
+### 3ème couche : veste Eider Shaper
 
 ![](https://voyage.wains.be/library/images/ski/eider-shaper.jpg)
 
 defender® high-density // impermeabilite 20,000mm // respirabilite 15,000g/m²/24h // 100% polyester
+
+### 2ème couche : veste Millet Grizzly Loft Bee
+
+![](https://voyage.wains.be/library/images/ski/millet-grizzly.jpg)
 
 ### Pantalon Picture Organic Welcome Bib
 
