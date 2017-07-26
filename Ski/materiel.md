@@ -1,11 +1,10 @@
 # Matériel de ski
 
-### Système 3/4 couches
+### Système 3 couches
 
 1. t-shirt merino manche longue Decathlon
-2. polaire Norrona Bitihorn Stretch
-3. optionnel si très froid : doudoune Patagonia Nano Puff
-4. veste Eider Shaper
+2. polaire Millet Grizzly Loft Bee
+3. veste hardshell Eider Shaper
 
 ### Ski et fixation (2016/2017)
 
