@@ -49,7 +49,7 @@ defender® high-density // impermeabilite 20,000mm // respirabilite 15,000g/m²/
 
 POLARTEC THERMAL PRO BEE LOFT // 96% POLYESTER RECYCLE 4% ELASTHANNE
 
-### 3ème couche : t-shirt manches longues merino Decathlon
+### 1ère couche : t-shirt manches longues merino Decathlon
 
 ### Pantalon Picture Organic Welcome Bib
 
