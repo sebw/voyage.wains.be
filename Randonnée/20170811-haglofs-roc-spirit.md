@@ -2,7 +2,7 @@
 
 J'ai acheté cette veste sur Amazon en automne 2016.
 
-L'utilisation principale est en randonnée sur un ou plusieurs (notamment lors de mon trek en Islande) mais aussi pour aller au travail sous la pluie batante ou faire une ascension en ski.
+L'utilisation principale est en randonnée sur un ou plusieurs jours (notamment lors de mon trek en Islande) mais aussi pour aller au travail sous la pluie batante ou faire une ascension en ski.
 
 J'ai possédé une veste en Goretex Paclite (Arcteryx Beta Hybrid LT) avant, que j'ai revendu car elle ne respirait tout simplement pas.
 
