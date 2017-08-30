@@ -1,21 +1,29 @@
 # Matériel
-Voici mon matériel rando, bivouac et bushcraft (MAJ juin 2017).
+Voici mon matériel rando, bivouac et bushcraft (MAJ août 2017).
 
 N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 
-**Système trois couches (quatre si intempéries, poids indicatif fabricant)**
+**Système trois couches**
 
-- Base layer manche longue merino Decathlon
-- Veste Arcteryx Adahy (290 grammes)
-- Veste mid-layer Patagonia Nano Puff (337 grammes)
-- Veste hardshell 3 layers Haglofs Roc Spirit (455 grammes)
+- Base layer merino (Decathlon/Icebreaker/Odlo)
+- Veste mid-layer Arcteryx Atom LT Hoody (360 grammes)
+- Veste hardshell Arcteryx Alpha FL (315 grammes)
 
 **Vestes**
 
 - Veste hiver Fjällräven Sarek Winter  
+- Veste Patagonia Nano Puff
 - Veste 2 saisons Fjällräven Abisko Lite (printemps, automne)
 - Veste softshell Karrimor
-- Veste Norrøna Bitihorn powerstretch (411 grammes)
+- Veste ski Eider Shaper
+
+**Polaires**
+
+- Norrøna Bitihorn powerstretch (411 grammes)
+- Millet Grizzly
+- Millet Grizzly Bee Loft
+- Rab Baseline
+- Arcteryx Adahy
 
 **Pantalons**
 
@@ -24,7 +32,8 @@ N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 
 **Base layer**
 
-- Base layer Decathlon Merino legging + t-shirt 
+- Base layer Decathlon merino legging + t-shirt 
+- Base layer Icebreaker merino
 - 2x tshirt Icebreaker merino (randonnée été)
 - Surpantalon imperméable Berghaus Deluge
 
