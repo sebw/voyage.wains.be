@@ -69,14 +69,17 @@ N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 
 **Guide des tailles**
 
-Voici les tailles que je porte dans différentes marques (1m89, 82 kg) :
+Voici les tailles que je porte dans différentes marques (1m89, ~ 80 kg) :
 
-- Patagonia : medium
-- Norrona : large
-- Haglofs : medium
 - Arcteryx : medium
 - Columbia : medium
-- Icebreaker : medium
+- Decathlon : medium-large
+- Fjallraven : medium, pantalon 50
+- Haglofs : medium
+- Icebreaker : medium-large
+- Norrona : large
+- Odlo : medium
+- Patagonia : medium
 - Picture Organic : large
 
 **Reviews**
