@@ -166,19 +166,28 @@ J'aime les maths et les stats, donc voilà...
   - 09/2016 Bastia-Lille (Volotea) `1008 kms`
   - 12/2016 Charleroi-Stockholm Skavsta (Ryanair) `1317 kms`
 
-- 2017 - `8157 kms` - 5 avions - 5 décollages
+- 2017 - `36695 kms` - 13 avions - 13 décollages
 
   - 01/2017 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`  
   - 04/2017 Brussels-Stockholm Arlanda (SAS) `1290 kms`
   - 05/2017 Stockholm Arlanda-Brussels (SAS) `1290 kms`
   - 06/2017 Brussels-Reyjkavik (Iceland Air) `2130 kms`
   - 07/2017 Reyjkavik-Brussels (Iceland Air) `2130 kms`
+  - 09/2017 Brussels-Doha (Qatar Airways) `4889 kms`
+  - 09/2017 Doha-Jakarta (Qatar Airways) `6901 kms`
+  - 09/2017 Jakarta-Medan (Lion Air) `1412 kms`
+  - 09/2017 Medan-Jakarta (Lion Air) `1412 kms`
+  - 09/2017 Jakarta-Lombok (Lion Air) `1067 kms`
+  - 09/2017 Lombok-Jakarta (Lion Air) `1067 kms`
+  - 09/2017 Jakarta-Doha (Qatar Airways) `6901 kms`
+  - 09/2017 Doha-Brussels (Qatar Airways) `4889 kms`
+
 
 
 ## La douloureuse addition
-- Distance : `209200 kms`
-- Nombre d'avions : 80
-- Nombre de décollages : 83
+- Distance : `237738 kms`
+- Nombre d'avions : 88
+- Nombre de décollages : 91
 
 [moi]: https://duckduckgo.com/?q=Sebastien+Wains
-[albums photo]: http://photo.wains.be
+[albums photo]: https://photo.wains.be
