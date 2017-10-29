@@ -3,7 +3,7 @@ Curieusement, ce modèle n'est vendu qu'en Europe, il n'apparait pas sur le site
 
 Selon MSR, il est plus robuste que le modèle NX et est prévu pour mieux résister aux conditions climatiques européennes, apparemment plus rudes qu'aux Etats-Unis (bon aux States, ils n'ont que des tornades et des ouragans).
 
-![MSR Huppa HP](https://voyage.wains.be/library/images/20151122-IMG_20151122_083832244_HDR.jpg)
+![MSR Huppa HP](https://voyage.wains.be/images/20151122-IMG_20151122_083832244_HDR.jpg)
 
 Les plus :
 

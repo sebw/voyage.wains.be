@@ -11,7 +11,7 @@ Vango annonce la tente comme une deux personnes, mais il faut vite se rendre à 
 
 Pour preuve ci-dessous, mon matelas Thermarest Xtherm Max occupe la majorité de l'espace.
 
-![Thermarest](https://voyage.wains.be/library/images/helix200-thermarest.jpg)
+![Thermarest](https://voyage.wains.be/images/helix200-thermarest.jpg)
 
 On peut placer un sac de 60 litres dans l'abside.
 

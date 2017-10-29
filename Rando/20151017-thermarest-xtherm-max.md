@@ -1,7 +1,7 @@
 # Thermarest Xtherm Max
 17 octobre 2015
 
-![Thermarest](https://voyage.wains.be/library/images/helix200-thermarest.jpg)
+![Thermarest](https://voyage.wains.be/images/helix200-thermarest.jpg)
 
 J'ai acheté ce matelas car je compte aller camper en forêt en hiver, notamment sur la neige.
 

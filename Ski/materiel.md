@@ -4,48 +4,48 @@
 
 - Ski Black Crows Captis 184 cm 122/90/112 [lien](https://www.black-crows.com/captis-skis)
 
-![](https://voyage.wains.be/library/images/ski/captis.png)
+![](https://voyage.wains.be/images/ski/captis.png)
 
 - Peaux Black Crows 182 cm (pour Anima, découpée)
 
-![](https://voyage.wains.be/library/images/ski/skins.png)
+![](https://voyage.wains.be/images/ski/skins.png)
 
 - Fixation Marker F10 Tour [lien](http://marker.net/products/bindings/tour-f10.html)
 
-![](https://voyage.wains.be/library/images/ski/marker.png)
+![](https://voyage.wains.be/images/ski/marker.png)
 
 ### Chaussures Salomon X-Max 100 (2015/2016)
 
-![](https://voyage.wains.be/library/images/ski/salomon-x100.jpg)
+![](https://voyage.wains.be/images/ski/salomon-x100.jpg)
 
 ### Sac à dos airbag Scott Air Free AP 12 litres
 
-![](https://voyage.wains.be/library/images/ski/airbag.jpg)
+![](https://voyage.wains.be/images/ski/airbag.jpg)
 
 ### Pelle Ortovox Badger
 
-![](https://voyage.wains.be/library/images/ski/pelle.jpg)
+![](https://voyage.wains.be/images/ski/pelle.jpg)
 
 ### Sonde Ortovox Light PFA 240
 
 270 grammes
 
-![](https://voyage.wains.be/library/images/ski/sonde.jpg)
+![](https://voyage.wains.be/images/ski/sonde.jpg)
 
 ### Sac à dos North Face Snomad Tour 36 litres
 
-![](https://voyage.wains.be/library/images/ski/northface-snomad-tour.jpg)
+![](https://voyage.wains.be/images/ski/northface-snomad-tour.jpg)
 
 
 ### 3ème couche : veste Eider Shaper
 
-![](https://voyage.wains.be/library/images/ski/eider-shaper.jpg)
+![](https://voyage.wains.be/images/ski/eider-shaper.jpg)
 
 defender® high-density // impermeabilite 20,000mm // respirabilite 15,000g/m²/24h // 100% polyester
 
 ### 2ème couche : veste Millet Grizzly Loft Bee
 
-![](https://voyage.wains.be/library/images/ski/millet-grizzly.jpg)
+![](https://voyage.wains.be/images/ski/millet-grizzly.jpg)
 
 POLARTEC THERMAL PRO BEE LOFT // 96% POLYESTER RECYCLE 4% ELASTHANNE
 
@@ -53,7 +53,7 @@ POLARTEC THERMAL PRO BEE LOFT // 96% POLYESTER RECYCLE 4% ELASTHANNE
 
 ### Pantalon Picture Organic Welcome Bib
 
-![](https://voyage.wains.be/library/images/ski/picture-welcome.jpg)
+![](https://voyage.wains.be/images/ski/picture-welcome.jpg)
 
 Modèle 2015/2016
 
@@ -76,7 +76,7 @@ Couleur selon la marque: blue
 
 ### Pantalon Picture Organic Open
 
-![](https://voyage.wains.be/library/images/skipant.jpg)
+![](https://voyage.wains.be/images/skipant.jpg)
 
 20K mm watercolumn
 15K g/m²/24 hrs breathability

@@ -2,7 +2,7 @@
 Date: 2015-03-01   
 tags: camping
 
-![Bivouac](https://voyage.wains.be/library/images/20150228-001.jpg)
+![Bivouac](https://voyage.wains.be/images/20150228-001.jpg)
 
 J'ai utilisé pour la première fois cette tente ce week-end en bivouac.
 
