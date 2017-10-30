@@ -9,3 +9,8 @@ Pour les timides qui ont peur de tenter de nouvelles choses, j'ai commencé à v
 Si vous voulez me contacter, cherchez [moi], vous me trouverez facilement. 
 
 N'oubliez pas de visiter mes [albums photo].
+
+Le contenu de ce site est disponible sur [GitHub](https://github.com/sebw/voyage.wains.be). En cas de remarques, questions ou corrections, passez par cette plateforme.
+
+Bonne lecture,  
+Sébastien
