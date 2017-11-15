@@ -25,3 +25,13 @@ Les moins :
 - le filet de rangement au plafond, en cas d'humidité élevée les objets s'y trouvant peuvent être humides au matin
 
 J'ai du choisir entre la NX et la HP. Je me suis dirigé sur la HP car un poil plus longue et la hauteur sous toit plus importante. En effet je mesure 1m90. La NX est plutôt un modèle 2 saisons, le double-toit est quasi exclusivement en mesh. Je compte utiliser la HP en 4 saisons (les hivers en Belgique ne sont pas très rigoureux).
+
+Mise à jour novembre 2017 :
+
+J'ai fait un trek en Islande en juin 2017.
+
+Du côté de Landmannalaugar, j'ai subi de la pluie et des vents forts (60-70 km/h) avec rafales violentes (90/100 km-h) pendant 24 heures. La tente se couchait quasi entièrement sur moi durant la nuit. Aucune casse à déplorer, contrairement à mon voisin et sa tente Vango (piquet brisé).
+
+Quelques goûtes passaient au niveau du zip après plusieurs heures de pluie ininterrompue. Une goutière réduirait ce phénomène. 
+
+Pas de remontée d'humidité avec le footprint.
