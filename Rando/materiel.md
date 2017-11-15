@@ -1,20 +1,23 @@
 # Matériel
-Voici mon matériel rando, bivouac et bushcraft (MAJ août 2017).
+Voici une bonne partie de mon matériel rando, bivouac et bushcraft.
 
 N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 
 **Système trois couches**
 
-- Base layer merino (Decathlon/Icebreaker/Odlo)
-- Veste mid-layer Arcteryx Atom LT Hoody (360 grammes)
-- Veste hardshell Arcteryx Alpha FL (315 grammes)
+Tout dépend des conditions, c'est la seconde couche qui sera adaptée en fonction, plus ou moins épaisse et chaude.
+
+- 1ère couche près du corps : base layer technique Icebreaker merino, Odlo synthétique
+- 2ème couche chaude : veste Arcteryx Atom LT Hoody OU fleece Millet Grizzly / Patagonia R2 OU Arcteryx Adahy
+- 3ème couche coupe-vent, imperméable : Veste hardshell Arcteryx Alpha FL
 
 **Vestes**
 
-- Veste hiver Fjällräven Sarek Winter  
+- Veste hiver Fjällräven Sarek Winter
+- Veste Arcteryx Atom LT
 - Veste Patagonia Nano Puff
+- Veste hardshell Arcteryx Alpha FL
 - Veste 2 saisons Fjällräven Abisko Lite (printemps, automne)
-- Veste softshell Karrimor
 - Veste ski Eider Shaper
 
 **Polaires**
@@ -22,6 +25,7 @@ N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 - Norrøna Bitihorn powerstretch (411 grammes)
 - Millet Grizzly
 - Millet Grizzly Bee Loft
+- Patagonia R2
 - Rab Baseline
 - Arcteryx Adahy
 
@@ -29,13 +33,13 @@ N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 
 - Pantalon randonnée Fjällräven Barrents Pro (3 saisons)
 - Pantalon randonnée hiver Norrøna Svalbard Heavy Duty (4 saisons)
+- Surpantalon imperméable Berghaus Deluge
 
 **Base layer**
 
 - Base layer Decathlon merino legging + t-shirt 
 - Base layer Icebreaker merino
-- 2x tshirt Icebreaker merino (randonnée été)
-- Surpantalon imperméable Berghaus Deluge
+- Odlo synthétique
 
 **Hiver**
 
@@ -49,7 +53,7 @@ N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 
 **Chaussures**
 
-- Chaussures Asolo Triumph Mv [review](https://voyage.wains.be/Tests%20de%20mate%CC%81riel/20151017-Asolo-Triumph.md)
+- Chaussures Asolo Triumph Mv (reviewed)
 
 **Equipement randonnée** 
 
@@ -57,10 +61,10 @@ N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 
 **Equipement bivouac**
 
-- Tente MSR Hubba HP [review](https://voyage.wains.be/Tests%20de%20mate%CC%81riel/20151110-MSR-hubba-hp.md)
+- Tente MSR Hubba HP (reviewed)
 - Sac de couchage Vango Ultralite 900 (-5°C, synthétique 1500 gr)
 - Sac de couchage Vango Ultralite 600 (0°C, synthétique 1200 gr)
-- Matelas Thermarest Xtherm Max [review](https://voyage.wains.be/Tests%20de%20mate%CC%81riel/20151017-thermarest-xtherm-max.md)
+- Matelas Thermarest Xtherm Max (reviewed)
 
 **Sac à dos**
 
@@ -71,7 +75,7 @@ N'hésitez pas à me contacter pour un avis (si je n'ai pas fait de review) :
 **Equipement bushcraft**
 
 - Hachette Gränsfors Bruk Mini Hatchet (Lilla yxan)
-- Hache Gränsfors Bruk small Forest Axe (liten skogsyxa)
+- Hache Gränsfors Bruk small Forest Axe (Liten skogsyxa)
 - Couteau Mora Bushcraft Signal
 
 ---
