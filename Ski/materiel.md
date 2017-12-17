@@ -79,7 +79,7 @@ Couleur selon la marque: blue
 
 ### Pantalon Picture Organic Open
 
-![](https://voyage.wains.be/images/skipant.jpg)
+![](https://voyage.wains.be/images/ski/picture-open.jpg)
 
 20K mm watercolumn
 15K g/m²/24 hrs breathability
