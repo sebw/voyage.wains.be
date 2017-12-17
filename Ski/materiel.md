@@ -14,6 +14,10 @@
 
 ![](https://voyage.wains.be/images/ski/marker.png)
 
+### Masque Julbo Aerospace
+
+![](https://voyage.wains.be/images/ski/masque.jpg)
+
 ### Chaussures Salomon X-Max 100 (2015/2016)
 
 ![](https://voyage.wains.be/images/ski/salomon-x100.jpg)
@@ -43,11 +47,10 @@
 
 defender® high-density // impermeabilite 20,000mm // respirabilite 15,000g/m²/24h // 100% polyester
 
-### 2ème couche : veste Millet Grizzly Loft Bee
+### 2ème couche : veste Millet Grizzly
 
-![](https://voyage.wains.be/images/ski/millet-grizzly.jpg)
+![](https://voyage.wains.be/images/ski/millet-griz.jpg)
 
-POLARTEC THERMAL PRO BEE LOFT // 96% POLYESTER RECYCLE 4% ELASTHANNE
 
 ### 1ère couche : t-shirt manches longues merino Decathlon
 
