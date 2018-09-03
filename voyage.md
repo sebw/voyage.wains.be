@@ -172,10 +172,17 @@ J'aime les maths et les stats, donc voilà...
   - 12/2017 Brussels-Stockholm Bromma (Brussels Airlines) `1290 kms`
   - 12/2017 Stockholm Bromma-Brussels (Brussels Airlines) `1290 kms`
 
+- 2018 - `2638 kms` - 4 avions - 4 décollages
+
+  - 08/2018 Brussels-Munich (Lufthansa) `602 kms`
+  - 08/2018 Munich-Brussels (Lufthansa) `602 kms`
+  - 09/2018 Brussels-Prague `717 kms`
+  - 09/2018 Prague-Brussels `717 kms`
+
 ## La douloureuse addition
-- Distance : `240318 kms`
-- Nombre d'avions : 90
-- Nombre de décollages : 93
+- Distance : `242956 kms`
+- Nombre d'avions : 94
+- Nombre de décollages : 97
 
 [moi]: https://duckduckgo.com/?q=Sebastien+Wains
 [albums photo]: https://photo.wains.be
