@@ -1,6 +1,6 @@
 # Islande - trek du Laugavegur (sens Porsmork vers Landmannalaugar)
 
-Photos : [https://photo.wains.be/albums/201707-islande-laugavegur-trek/](https://photo.wains.be/albums/201707-islande-laugavegur-trek/)
+Photos : [https://photo.wains.be/2017%20-%20Iceland/](https://photo.wains.be/2017%20-%20Iceland/)
 
 Itinéraire : [https://fr.wikiloc.com/wikiloc/view.do?id=18647215](https://fr.wikiloc.com/wikiloc/view.do?id=18647215)
 
