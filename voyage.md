@@ -192,7 +192,16 @@ J'aime les maths et les stats, donc voilà...
     - 09/2018 Brussels-Prague `717 kms`
     - 09/2018 Prague-Brussels `717 kms`
 
-## La douloureuse addition
+- 2019
+
+    - 05/2019 Brussels-Stockholm Arlanda (SAS)
+    - 05/2019 Stockholm Arlanda-Brussels (SAS)
+    - 07/2019 Brussels-Warsaw-Gdansk (Polish Airlines)
+    - 07/2019 Gdansk-Warsaw-Brussels (Polish Airlines)
+    - 09/2019 Brussels-Vienna (Austrian Airlines)
+    - 09/2019 Vienna-Brussels (Austrian Airlines)
+
+## La douloureuse addition (jusque 2018)
 - Distance : `242956 kms`
 - Nombre d'avions : 94
 - Nombre de décollages : 97
