@@ -1,4 +1,33 @@
 # Voyages
+
+Pays visités :
+
+- Allemagne
+- Angleterre
+- Belgique
+- Cambodge
+- Costa Rica
+- Cuba
+- Emirats Arabes Unis
+- Espagne
+- Etats-Unis
+- France
+- Indonésie
+- Irlande
+- Islande
+- Italie
+- Laos
+- Luxembourg
+- Méxique
+- Népal
+- Norvége
+- Pays-Bas
+- Pologne
+- République Tchéque
+- Suède
+- Suisse
+- Thailande
+
 Longs séjours :
 
 - 2003 : Corse, France
