@@ -223,8 +223,8 @@ J'aime les maths et les stats, donc voilà...
 
 - 2019
 
-    - 05/2019 Brussels-Stockholm Arlanda (SAS)
-    - 05/2019 Stockholm Arlanda-Brussels (SAS)
+    - 05/2019 Brussels-Stockholm Skavsta (Ryanair)
+    - 05/2019 Stockholm Skavsta-Brussels (Ryanair)
     - 07/2019 Brussels-Warsaw-Gdansk (Polish Airlines)
     - 07/2019 Gdansk-Warsaw-Brussels (Polish Airlines)
     - 09/2019 Brussels-Vienna (Austrian Airlines)
