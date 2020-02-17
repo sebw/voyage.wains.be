@@ -8,6 +8,7 @@ Pays visités :
 - Cambodge
 - Costa Rica
 - Cuba
+- Ecosse
 - Emirats Arabes Unis
 - Espagne
 - Etats-Unis
