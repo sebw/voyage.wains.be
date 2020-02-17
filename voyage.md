@@ -201,6 +201,11 @@ J'aime les maths et les stats, donc voilà...
     - 09/2019 Brussels-Vienna (Austrian Airlines)
     - 09/2019 Vienna-Brussels (Austrian Airlines)
 
+- 2020
+
+    - 02/2020 Brussels-Edinburgh (Brussels Airlines)
+    - 02/2020 Ebinburgh-Brussels (Brussels Airlines)
+
 ## La douloureuse addition (jusque 2018)
 - Distance : `242956 kms`
 - Nombre d'avions : 94
