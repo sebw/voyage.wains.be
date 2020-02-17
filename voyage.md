@@ -218,8 +218,8 @@ J'aime les maths et les stats, donc voilà...
 
     - 08/2018 Brussels-Munich (Lufthansa) `602 kms`
     - 08/2018 Munich-Brussels (Lufthansa) `602 kms`
-    - 09/2018 Brussels-Prague `717 kms`
-    - 09/2018 Prague-Brussels `717 kms`
+    - 09/2018 Brussels-Prague (Czech Airlines) `717 kms`
+    - 09/2018 Prague-Brussels (Czech Airlines) `717 kms`
 
 - 2019
 
