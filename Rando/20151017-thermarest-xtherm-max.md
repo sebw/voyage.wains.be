@@ -26,7 +26,7 @@ Les modèles MAX sont en forme rectangulaire et offrent donc plus d'espace, mais
 
 Je continuerai cet article quand j'aurai un peu plus d'expérience avec le matelas.
 
-Le prix plein est généralement dans les 210-220 euros. Je l'ai acheté sur [Campz](www.campz.be), il était à 199 euros (alors qu'il était à 209 sur le site .fr), avec une remise de 10 euros (si vous êtes abonné à leur newsletter ou déjà client, vous recevez des codes promo régulièrement). Au final il me revient à 189 euros.
+Le prix plein est généralement dans les 210-220 euros. Je l'ai acheté sur [Campz](https://www.campz.be), il était à 199 euros (alors qu'il était à 209 sur le site .fr), avec une remise de 10 euros (si vous êtes abonné à leur newsletter ou déjà client, vous recevez des codes promo régulièrement). Au final il me revient à 189 euros.
 
 C'est cher pour un matelas me direz-vous, mais je vous garanti qu'une mauvaise nuit, c'est une mauvaise journée le lendemain.
 
