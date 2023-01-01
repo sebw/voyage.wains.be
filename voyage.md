@@ -27,6 +27,7 @@ Pays visités :
 - République Tchéque
 - Suède
 - Suisse
+- Turquie
 - Thailande
 
 Longs séjours :
@@ -162,7 +163,7 @@ J'aime les maths et les stats, donc voilà...
     - 03/2014 Abu Dhabi-Bangkok (Etihad) `4973 kms`
     - 04/2014 Udon Thani-Bangkok Don Mueang (Air Asia) `474 kms`
     - 04/2014 Bangkok-Abu Dhabi (Etihad) `4973 kms`
-    - 04/2014 Abu Dhabi-Bruxelles (Etihad) `5157 kms`  
+    - 04/2014 Abu Dhabi-Bruxelles (Etihad) `5157 kms`
     - 05/2014 Charleroi-Stockholm Skavsta (Ryanair) `1317 kms`
     - 06/2014 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
     - 06/2014 Brussels-Reyjkavik (Iceland Air) `2130 kms`
@@ -199,7 +200,7 @@ J'aime les maths et les stats, donc voilà...
 
 - 2017 - `39275 kms` - 15 avions - 15 décollages
 
-    - 01/2017 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`  
+    - 01/2017 Stockholm Skavsta-Charleroi (Ryanair) `1317 kms`
     - 04/2017 Brussels-Stockholm Arlanda (SAS) `1290 kms`
     - 05/2017 Stockholm Arlanda-Brussels (SAS) `1290 kms`
     - 06/2017 Brussels-Reyjkavik (Iceland Air) `2130 kms`
@@ -236,7 +237,21 @@ J'aime les maths et les stats, donc voilà...
     - 02/2020 Brussels-Edinburgh (Brussels Airlines)
     - 02/2020 Ebinburgh-Brussels (Brussels Airlines)
 
-## La douloureuse addition (jusque 2018)
+- 2022
+
+    - 09/2022 Charleroi-Arlanda (Ryanair)
+    - 09/2022 Arlanda-Charleroi (Ryanair)
+    - 10/2022 Charleroi-Malaga (Ryanair)
+    - 10/2022 Malaga-Charleroi (Ryanair)
+    - 12/2022 Brussels-Istanbul IST (Turkish Airlines)
+    - 12/2022 Istanbul-Brussels (Turkish Airlines)
+
+- 2023
+
+    - 01/2023 Brussels-Dublin (Aer Lingus)
+    - 01/2023 Dublin-Brussels (Aer Lingus)
+
+## La douloureuse addition (jusque 2018 ensuite j'ai arrêté de compter)
 - Distance : `242956 kms`
 - Nombre d'avions : 96
 - Nombre de décollages : 99
